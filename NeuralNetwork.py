@@ -7,6 +7,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator  # Аугм�
 from tensorflow.keras.preprocessing import image  # Работа с изображениями
 import matplotlib.pyplot as plt  # Визуализация данных
 
+
 # ============== 1. Предобработка данных ==============
 
 # Функция для предобработки изображений
